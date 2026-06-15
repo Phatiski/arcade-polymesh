@@ -1,6 +1,8 @@
  
+> this extension is archived to make for case study form using ai assisted code for not review by human to make unoptimized or unmanageble
 
-
+<del>
+ 
 > Download this extension [here](https://github.com/phattisu/arcade-polymesh/raw/refs/heads/master/arcade-polymesh.uf2)
 
 > Open this page at [https://phatisena.github.io/arcade-polymesh/](https://phatisena.github.io/arcade-polymesh/)
@@ -26,3 +28,4 @@ To edit this repository in MakeCode.
 
 * for PXT/arcade
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+</del>
